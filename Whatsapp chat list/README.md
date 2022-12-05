@@ -24,7 +24,7 @@ A simple Python Real Time Chat Application with GUI interface
 <br><br>
 
 Password for client1.py : Vinay
-**Free Software, Hell Yeah!**
+
 
   
 
