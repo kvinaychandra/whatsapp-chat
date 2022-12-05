@@ -23,7 +23,7 @@ A simple Python Real Time Chat Application with GUI interface
 
 <br><br>
 
-Made By ❤ : [JoeVenner](mailto:ylafrimi@gmail.com)<br>
+Password for client1.py : Vinay
 **Free Software, Hell Yeah!**
 
   
